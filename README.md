@@ -32,4 +32,4 @@ Projeto simples de tela de login desenvolvido em **Python** utilizando **Tkinter
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/login-system.git
+git clone https://github.com/watilla-dev/telaLoginAAPython.git
